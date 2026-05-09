@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Universal Typing/Naming (UTN) for DBM-SI - UTN as the Structural Identity Layer of Structural Intelligence Systems"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+abstract: "Universal Typing/Naming (UTN) is a foundational structural intelligence infrastructure for DBM-SI systems. Unlike traditional naming conventions or type systems, UTN treats names and types as emergent structural identities constrained by CCC invariants, recursive structural roles, metric consistency, behavioral persistence, and Active CCC evolution. This repository introduces: 1) Structural Identity Persistence; 2) CCC-first reverse naming construction; 3) Intent → CCC → Role → Type → Name pipeline; 4) UTN as DBM-SI Structural Identity Layer; 5) Recursive identity alignment; 6) Metric-consistent structural addressing; 7) UTN integration with Calling Graph systems; 8) Active CCC and CAIG integration. UTN reframes naming and typing from symbolic annotation problems into structural intelligence problems. The repository establishes UTN as an independent Delta DOI track intended to accelerate collective learning and recursive structural intelligence research."
+keywords:
+  - Artificial Intelligence
+  - Structural Intelligence
+  - DBM-SI
+  - CAIG
+  - In-Situ Learning
+  - Structural Runtime
+  - Component Evolution
+  - Metric Space
+  - Differential Tree
+  - ASB
+  - PDS
+  - Robotics AI
+  - Industrial AI
+  - MES
+  - Hybrid AI Systems
+  - Structural Governance
+  - Evolutionary Runtime
+  - Localized Intelligence
+  - Recursive Structural Intelligence
+license: Apache-2.0
+repository-code: "https://github.com/sizhet/Universal-Typing-Naming-DBM-SI"
