@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#08111f"/>
+    <stop offset="55%" stop-color="#10233d"/>
+    <stop offset="100%" stop-color="#060a12"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffd166"/>
+    <stop offset="100%" stop-color="#fca311"/>
+  </linearGradient>
+  <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7dd3fc"/>
+    <stop offset="100%" stop-color="#2563eb"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softshadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+  </filter>
+  <style>
+    .title { font-family: Arial, Helvetica, sans-serif; font-weight: 700; fill: #f8fafc; }
+    .subtitle { font-family: Arial, Helvetica, sans-serif; fill: #cbd5e1; }
+    .label { font-family: Arial, Helvetica, sans-serif; font-weight: 700; fill: #e2e8f0; }
+    .small { font-family: Arial, Helvetica, sans-serif; fill: #cbd5e1; font-size: 18px; }
+    .tiny { font-family: Arial, Helvetica, sans-serif; fill: #94a3b8; font-size: 14px; }
+    .box { fill: rgba(15, 23, 42, 0.82); stroke: #38bdf8; stroke-width: 2; rx: 24; filter: url(#softshadow); }
+    .boxgold { fill: rgba(30, 24, 10, 0.88); stroke: #fbbf24; stroke-width: 2.5; rx: 24; filter: url(#softshadow); }
+    .arrow { stroke: #93c5fd; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+    .arrowgold { stroke: #fbbf24; stroke-width: 3.5; fill: none; marker-end: url(#arrowheadgold); }
+    .line { stroke: #475569; stroke-width: 1.5; opacity: 0.55; }
+  </style>
+  <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+    <polygon points="0 0, 10 4, 0 8" fill="#93c5fd"/>
+  </marker>
+  <marker id="arrowheadgold" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+    <polygon points="0 0, 10 4, 0 8" fill="#fbbf24"/>
+  </marker>
+</defs>
+<rect width="1600" height="1000" fill="url(#bg)"/>
+<text x="800" y="70" class="title" font-size="42" text-anchor="middle">Figure 1 — CCC Math Unified Landscape</text>
+<text x="800" y="110" class="subtitle" font-size="22" text-anchor="middle">DBM-SI technologies interpreted as CCC-centered structural algebra</text>
+<circle cx="800" cy="430" r="150" fill="url(#gold)" opacity="0.92" filter="url(#glow)"/>
+<text x="800" y="390" class="label" font-size="25" text-anchor="middle">CCC MATH</text>
+<text x="800" y="424" class="label" font-size="25" text-anchor="middle">Structural Algebra</text>
+<text x="800" y="458" class="label" font-size="25" text-anchor="middle">for DBM-SI</text>
+<rect x="110" y="210" width="330" height="150" class="box" rx="24"/>
+<text x="275.0" y="248" class="small" font-size="18" text-anchor="middle">Metric Spaces</text>
+<text x="275.0" y="274" class="small" font-size="18" text-anchor="middle">Differential Trees</text>
+<text x="275.0" y="300" class="small" font-size="18" text-anchor="middle">Clustering / Match</text>
+<rect x="1160" y="210" width="330" height="150" class="box" rx="24"/>
+<text x="1325.0" y="248" class="small" font-size="18" text-anchor="middle">Dynamic Intelligence</text>
+<text x="1325.0" y="274" class="small" font-size="18" text-anchor="middle">Trajectory CCC</text>
+<text x="1325.0" y="300" class="small" font-size="18" text-anchor="middle">PDS / ELM</text>
+<rect x="110" y="650" width="330" height="150" class="box" rx="24"/>
+<text x="275.0" y="688" class="small" font-size="18" text-anchor="middle">Structural Coding</text>
+<text x="275.0" y="714" class="small" font-size="18" text-anchor="middle">CGCCC / SOS</text>
+<text x="275.0" y="740" class="small" font-size="18" text-anchor="middle">Structure Diffusion</text>
+<rect x="1160" y="650" width="330" height="150" class="box" rx="24"/>
+<text x="1325.0" y="688" class="small" font-size="18" text-anchor="middle">Recursive SI</text>
+<text x="1325.0" y="714" class="small" font-size="18" text-anchor="middle">In-situ / APTGOE</text>
+<text x="1325.0" y="740" class="small" font-size="18" text-anchor="middle">Observer-centric IR</text>
+<rect x="610" y="790" width="380" height="120" class="boxgold" rx="24"/>
+<text x="800.0" y="828" class="small" font-size="18" text-anchor="middle">Autonomous AI Coding</text>
+<text x="800.0" y="854" class="small" font-size="18" text-anchor="middle">Task CCC ↔ Action CCC</text>
+<path d="M800 430 L275 285" class="arrow"/>
+<path d="M800 430 L1325 285" class="arrow"/>
+<path d="M800 430 L275 725" class="arrow"/>
+<path d="M800 430 L1325 725" class="arrow"/>
+<path d="M800 430 L800 850" class="arrow"/>
+<circle cx="800.0" cy="160.0" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="800.0" y="155.0" class="small" font-size="16" text-anchor="middle">Extraction</text>
+<circle cx="990.9" cy="239.1" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="990.9188309203678" y="234.0811690796322" class="small" font-size="16" text-anchor="middle">Matching</text>
+<circle cx="1070.0" cy="430.0" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="1070.0" y="425.0" class="small" font-size="16" text-anchor="middle">Folding</text>
+<circle cx="990.9" cy="620.9" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="990.9188309203678" y="615.9188309203678" class="small" font-size="16" text-anchor="middle">Preservation</text>
+<circle cx="800.0" cy="700.0" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="800.0" y="695.0" class="small" font-size="16" text-anchor="middle">Transformation</text>
+<circle cx="609.1" cy="620.9" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="609.0811690796322" y="615.9188309203678" class="small" font-size="16" text-anchor="middle">Triggering</text>
+<circle cx="530.0" cy="430.0" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="530.0" y="425.00000000000006" class="small" font-size="16" text-anchor="middle">Evolution</text>
+<circle cx="609.1" cy="239.1" r="58" fill="#0f172a" stroke="#7dd3fc" stroke-width="2" opacity="0.96"/>
+<text x="609.0811690796321" y="234.0811690796322" class="small" font-size="16" text-anchor="middle">Recursion</text>
+</svg>
