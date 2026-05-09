@@ -15,12 +15,12 @@ This viewpoint is important because it reveals that many DBM-SI algorithms are n
 
 The DBM-SI stack can be divided into four major layers:
 
-|Layer	|Purpose	Core Structural Theme |
-|---|---|
-Layer A	Metric Localization	Structure discovery
-Layer B	Dynamic Intelligence	Temporal/behavioral intelligence
-Layer C	Structural Programming Intelligence	Program and autonomous coding intelligence
-Layer D	Recursive Autonomous Intelligence	Self-evolving structural systems
+|Layer	|Purpose	|Core Structural Theme |
+|---|---|---|
+|Layer A	|Metric Localization	|Structure discovery
+|Layer B	|Dynamic Intelligence	|Temporal/behavioral intelligence
+|Layer C	|Structural Programming Intelligence	|Program and autonomous coding intelligence
+|Layer D	|Recursive Autonomous Intelligence	|Self-evolving structural systems
 
 ## 3. Layer A — Metric Localization and Structural Discovery
 
@@ -60,14 +60,14 @@ where:
 
 |Technology	|CCC Math Interpretation |
 |---|---|
-Variable-size blocks	Adaptive local CCC regions
-Differential Tree	Hierarchical CCC localization
-Two-Phases Search	Candidate CCC retrieval + CCC validation
-Metric Match/BTP	CCC distance computation
-CCC Extractor	Structural invariant extraction
-Hybrid Differential Tree	Multi-space CCC organization
-Clustering	CCC attractor formation
-Dispatch/ASB	CCC-guided execution routing
+|Variable-size blocks	|Adaptive local CCC regions
+|Differential Tree	|Hierarchical CCC localization
+|Two-Phases Search	|Candidate CCC retrieval + CCC validation
+|Metric Match/BTP	|CCC distance computation
+|CCC Extractor	|Structural invariant extraction
+|Hybrid Differential Tree	|Multi-space CCC organization
+|Clustering	|CCC attractor formation
+|Dispatch/ASB	|CCC-guided execution routing
 
 ## 4. Layer B — Dynamic and Behavioral Intelligence
 
@@ -95,18 +95,18 @@ This is one of the most important expansions of DBM-SI.
 
 Traditional AI systems often model:
 
-tokens,
-states,
-probabilities,
-or rewards.
+- tokens,
+- states,
+- probabilities,
+- or rewards.
 
 DBM-SI instead attempts to model:
 
-trajectory-level structural stability
+    trajectory-level structural stability
 
 and:
 
-behavior-triggered policy intelligence.
+    behavior-triggered policy intelligence.
 
 ### Triggering CCC
 
@@ -122,7 +122,7 @@ PDS is not merely a decision engine.
 
 It acts as:
 
-the control plane of DBM-SI.
+    the control plane of DBM-SI.
 
 The canonical formulation:
 
@@ -132,22 +132,22 @@ represents a layered intelligence transformation pipeline.
 
 |Layer	|Meaning |
 |---|---|
-S	Segmentation / localization
-K	Knowledge extraction
-D	Decision
-P	Policy
-M	MES execution and feedback
+|S	|Segmentation / localization
+|K	|Knowledge extraction
+|D	|Decision
+|P	|Policy
+|M	|MES execution and feedback
 
 ### CCC Math Interpretation
 
 |Technology	CCC | Math Interpretation |
 |---|---|
-Triggering CCC	Structural activation centers
-Trajectory CCC	Dynamic temporal CCC
-Time Series IR	Sequential CCC representation
-ELM	Event-level CCC language
-PDS	CCC-triggered control plane
-Rules Engines	CCC-guided policy transformation
+|Triggering CCC	|Structural activation centers
+|Trajectory CCC	|Dynamic temporal CCC
+|Time Series IR	|Sequential CCC representation
+|ELM	|Event-level CCC language
+|PDS	|CCC-triggered control plane
+|Rules Engines	|CCC-guided policy transformation
 
 ## 5. Layer C — Structural Programming Intelligence
 
@@ -165,17 +165,17 @@ This layer is where DBM-SI begins transforming from a perception/reasoning frame
 
 The key insight is:
 
-programs are not merely syntax trees or token streams;
-they are structural trajectory systems.
+> programs are not merely syntax trees or token streams;\
+> they are structural trajectory systems.
 
 ### Calling Graph Intelligence
 
 Traditional program analysis focuses heavily on:
 
-syntax,
-ASTs,
-dataflow,
-type systems.
+- syntax,
+- ASTs,
+- dataflow,
+- type systems.
 
 CGCCC extends this into:
 
@@ -183,11 +183,11 @@ CGCCC extends this into:
 
 where:
 
-calling paths,
-SOS transitions,
-graph motifs,
-path trajectories,
-and CCC-preserved transformations
+- calling paths,
+- SOS transitions,
+- graph motifs,
+- path trajectories,
+- and CCC-preserved transformations
 
 become the governing structures.
 
@@ -201,11 +201,12 @@ Its key proposition is:
 
 This connects:
 
-semantics,
-role identity,
-graph topology,
-and behavioral stability.
-Structure Diffusion
+- semantics,
+- role identity,
+- graph topology,
+- and behavioral stability.
+
+### Structure Diffusion
 
 CGCCC Structure Diffusion extends CCC Math into program evolution:
 
@@ -217,7 +218,7 @@ under:
 
 This reframes AI coding as:
 
-structurally-governed graph evolution
+    structurally-governed graph evolution
 
 rather than unconstrained token generation.
 
@@ -225,11 +226,11 @@ rather than unconstrained token generation.
 
 General AI Graph (GAIG) represents a further expansion:
 
-task graphs,
-action graphs,
-environment graphs,
-behavioral graphs,
-and recursive execution graphs
+- task graphs,
+- action graphs,
+- environment graphs,
+- behavioral graphs,
+- and recursive execution graphs
 
 become unified under one structural runtime framework.
 
@@ -237,13 +238,13 @@ become unified under one structural runtime framework.
 
 |Technology	|CCC Math Interpretation |
 |---|---|
-Calling Graph	CCC trajectory topology
-SOS	State-transition CCC flow
-Folding/Splitting	CCC compression/decomposition
-CGCCC	Program structural CCC
-Universal Naming	Stable role CCC
-Structure Diffusion	CCC-preserved evolution
-GAIG	Unified CCC graph runtime
+|Calling Graph	|CCC trajectory topology
+|SOS	|State-transition CCC flow
+|Folding/Splitting	|CCC compression/decomposition
+|CGCCC	|Program structural CCC
+|Universal Naming	|Stable role CCC
+|Structure Diffusion	|CCC-preserved evolution
+|GAIG	|Unified CCC graph runtime
 
 ## 6. Layer D — Recursive Autonomous Intelligence
 
@@ -274,13 +275,14 @@ In-situ SI proposes that intelligence should emerge within local structural envi
 
 This introduces:
 
-local recursive adaptation,
-local graph restructuring,
-contextual CCC formation,
-environment-dependent intelligence growth.
-Recursive Structure Intelligence
+- local recursive adaptation,
+- local graph restructuring,
+- contextual CCC formation,
+- environment-dependent intelligence growth.
 
-### Recursive SI extends this further:
+### Recursive Structure Intelligence
+
+Recursive SI extends this further:
 
     CCC(CCC(X))
 
@@ -288,21 +290,21 @@ The system begins operating over its own structural abstractions.
 
 This may become the basis of:
 
-self-modeling systems,
-recursive AI coding,
-self-repairing architectures,
-recursive trajectory optimization,
-autonomous structural evolution.
+- self-modeling systems,
+- recursive AI coding,
+- self-repairing architectures,
+- recursive trajectory optimization,
+- autonomous structural evolution.
 
 ### Vertical and Horizontal Bridging
 
 These mechanisms attempt to bridge:
 
-abstraction gaps,
-granularity gaps,
-task gaps,
-implementation gaps,
-trajectory gaps.
+- abstraction gaps,
+- granularity gaps,
+- task gaps,
+- implementation gaps,
+- trajectory gaps.
 
 This is extremely important for Autonomous AI Coding.
 
@@ -314,9 +316,9 @@ Observer-centric IR introduces another major idea:
 
 This extends DBM-SI beyond static representation systems toward:
 
-perspective-dependent intelligence,
-multi-observer trajectory analysis,
-contextual structural interpretation.
+- perspective-dependent intelligence,
+- multi-observer trajectory analysis,
+- contextual structural interpretation.
 
 ### MET / MES / APTGOE
 
@@ -324,9 +326,9 @@ These systems introduce evolutionary dynamics into DBM-SI.
 
 |Component	|Structural Meaning |
 |---|---|
-MET	Minimal Evolution Threshold
-MES	Execution and structural feedback
-APTGOE	Autonomous structural evolution loop
+|MET	|Minimal Evolution Threshold
+|MES	|Execution and structural feedback
+|APTGOE	|Autonomous structural evolution loop
 
 This transforms DBM-SI into:
 
@@ -344,29 +346,29 @@ Catch up with the rapid evolution of AI coding systems.
 
 This direction attempts to establish:
 
-CCC-governed autonomous software generation
+    CCC-governed autonomous software generation
 
 rather than uncontrolled token-level synthesis.
 
 The key transformation becomes:
 
-Task CCC ↔ Code CCC
+    Task CCC ↔ Code CCC
 
 #### Importance
 
 This may become one of the most strategically important DBM-SI directions because:
 
-AI coding is scaling rapidly,
-structural governance is currently weak,
-compliance verification remains expensive,
-recursive software evolution lacks stable structural constraints.
+- AI coding is scaling rapidly,
+- structural governance is currently weak,
+- compliance verification remains expensive,
+- recursive software evolution lacks stable structural constraints.
 
 CGCCC attempts to provide:
 
-structure preservation,
-directional metric validation,
-compliance-aware transformation,
-recursive rewrite stability.
+- structure preservation,
+- directional metric validation,
+- compliance-aware transformation,
+- recursive rewrite stability.
 
 ### Direction 2 — PDS User Case Solutions
 
@@ -378,19 +380,19 @@ Transform PDS from theoretical architecture into deployable solution systems.
 
 PDS becomes:
 
-the operational control plane of Structural Intelligence.
+    the operational control plane of Structural Intelligence.
 
 This direction is important because it connects:
 
-abstract SI theory,
-real-world APP systems,
-policy execution,
-trajectory control,
-and unified runtime orchestration.
+- abstract SI theory,
+- real-world APP systems,
+- policy execution,
+- trajectory control,
+- and unified runtime orchestration.
 
 The proposed:
 
-APP / Solution Poker Cards
+    APP / Solution Poker Cards
 
 may become reusable modular intelligence deployment units.
 
@@ -400,10 +402,10 @@ may become reusable modular intelligence deployment units.
 
 Capture the rich but underdeveloped intelligence space of:
 
-time series,
-event flows,
-behavior trajectories,
-and dynamic structural evolution.
+- time series,
+- event flows,
+- behavior trajectories,
+- and dynamic structural evolution.
 
 #### Structural Meaning
 
@@ -448,43 +450,43 @@ This may become:
 
 |Layer	|Core Theme	|Structural Meaning	|CCC Math Role |
 |---|---|---|---|
-Metric Layer	Localization	Find structures	CCC discovery
-Differential Trees	Hierarchy	Organize structures	CCC topology
-Metric Match	Validation	Compare structures	CCC distance
-Trajectory Layer	Dynamics	Model behavior	Temporal CCC
-PDS	Control	Trigger policies	CCC activation
-CGCCC	Programming	Govern code evolution	Program CCC
-Universal Naming	Stabilization	Preserve role identity	Naming CCC
-Structure Diffusion	Evolution	Controlled rewriting	CCC preservation
-GAIG	Unified Runtime	Graph execution space	Unified CCC graph
-Recursive SI	Self-evolution	Recursive intelligence	Recursive CCC
-Autonomous Coding	Structural transformation	Task-action alignment	CCC transformation
-CCC Math	Mathematical abstraction	Unified SI language	Structural algebra
+|Metric Layer	|Localization	|Find structures	|CCC discovery
+|Differential Trees	|Hierarchy	|Organize structures	|CCC topology
+|Metric Match	|Validation	|Compare structures	|CCC distance
+|Trajectory Layer	|Dynamics	|Model behavior	|Temporal CCC
+|PDS	|Control	|Trigger policies	|CCC activation
+|CGCCC	|Programming	|Govern code evolution	|Program CCC
+|Universal Naming	|Stabilization	|Preserve role identity	|Naming CCC
+|Structure Diffusion	|Evolution	|Controlled rewriting	|CCC preservation
+|GAIG	|Unified Runtime	|Graph execution space	|Unified CCC graph
+|Recursive SI	|Self-evolution	|Recursive intelligence	|Recursive CCC
+|Autonomous Coding	|Structural transformation	|Task-action alignment	|CCC transformation
+|CCC Math	|Mathematical abstraction	|Unified SI language	|Structural algebra
 
 ## Final Perspective
 
 The DBM-SI stack is gradually evolving from:
 
-a collection of intelligent algorithms
+    a collection of intelligent algorithms
 
 toward:
 
-a unified structural intelligence architecture.
+    a unified structural intelligence architecture.
 
 CCC Math provides the abstraction layer that explains why these technologies connect naturally.
 
 From this perspective:
 
-Differential Trees,
-PDS,
-CGCCC,
-Trajectory Intelligence,
-Universal Typing/Naming,
-Recursive SI,
-and Autonomous AI Coding
+- Differential Trees,
+- PDS,
+- CGCCC,
+- Trajectory Intelligence,
+- Universal Typing/Naming,
+- Recursive SI,
+- and Autonomous AI Coding
 
 are not isolated research topics.
 
 They are different operational manifestations of:
 
-CCC-centered Structural Intelligence.
+    CCC-centered Structural Intelligence.
