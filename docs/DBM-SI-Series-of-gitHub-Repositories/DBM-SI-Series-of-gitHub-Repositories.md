@@ -54,10 +54,10 @@
 18. SQL-SI - SQL as a Structural Intelligence Backend \
     Repository: https://github.com/sizhet/SQL-SI
     
-19. PDS General Algorithmic Form - Structural Intelligence Framework for Decision Systems \  
+19. PDS General Algorithmic Form - Structural Intelligence Framework for Decision Systems 
     Repository: https://github.com/sizhet/PDS-General-Algorithmic-Form
     
-20. CGCCC-For-AI-Coding - A structural-intelligence path branch for CCC path extraction, preserved-path validation, profile-aware campaign dynamics, field-map semantics, and empirical poster-ready figure systems. \   
+20. CGCCC-For-AI-Coding - A structural-intelligence path branch for CCC path extraction, preserved-path validation, profile-aware campaign dynamics, field-map semantics, and empirical poster-ready figure systems   
     Repository: https://github.com/sizhet/CGCCC-For-AI-Coding
     
 21. In-Situ Structural Intelligence - Beyond Monolithic AI Toward Structural Component Formation, Training and Evolution \
@@ -71,3 +71,10 @@
                    
 24. CallingGraph-Vertical-Gap-Bridging - A Three-Layer Runtime for Structural Bridge Construction \
     Repository: https://github.com/sizhet/CallingGraph-Vertical-Gap-Bridging
+    
+25. Universal Typing/Naming (UTN) for DBM-SI - as the Structural Identity Layer of Structural Intelligence Systems \
+    Repository: https://github.com/sizhet/Universal-Typing-Naming-DBM-SI
+    
+26. CCC Math - A Structural Algebra for DBM-SI, Autonomous AI Coding, and Recursive Structural Intelligence \
+    Repository: https://github.com/sizhet/CCC-Math
+    
