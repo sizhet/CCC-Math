@@ -1,5 +1,7 @@
 # CCC Math — A Structural Algebra for DBM-SI
 
+![figures/hero-banner-ccc-math.png](figures/hero-banner-ccc-math.png)
+
 ## 1. Core Positioning of CCC Math
 
 Within the DBM-SI (Digital Brain Model — Structural Intelligence) framework, the **Common Concept Core (CCC)** is not merely a feature, embedding cluster, semantic tag, or latent representation.
@@ -46,6 +48,16 @@ This reframes intelligence from:
 toward:
 
     CCC-Centered Structural Transformation
+
+---
+
+### Figure 1 — CCC Math Unified Landscape
+
+![CCC Math Unified Landscape](figures/fig-001-ccc-math-unified-landscape.png)
+
+CCC Math provides a unifying structural layer over metric localization, differential trees, trajectory intelligence, PDS, CGCCC, structure diffusion, recursive SI, and Autonomous AI Coding.
+
+---
 
 ## 3. CCC Math Object System
 
@@ -281,6 +293,14 @@ Applications:
 - compliance governance,
 - structure diffusion.
 
+---
+
+### Figure 2 — Structure Preservation Under Transformation
+
+![Structure Preservation Under Transformation](figures/fig-002-structure-preservation-under-transformation.png)
+
+---
+
 ### 4.8 CCC Diffusion
 
     CCC_t → CCC_{t+1}
@@ -331,6 +351,14 @@ Applications:
 - meta-reasoning,
 - self-modeling systems.
 
+---
+
+![Recursive Structural Intelligence](figures/fig-004-recursive-structural-intelligence.png)
+
+Recursive SI studies the evolution of intelligence over its own structural abstractions:
+
+---
+
 ## 5. CCC Math and Autonomous AI Coding
 
 One of the strongest applications of CCC Math is Autonomous AI Coding.
@@ -362,6 +390,14 @@ This shifts AI coding from:
 toward:
 
     task CCC → structural transformation → validated action CCC
+
+---
+
+## Figure 3 — Task CCC ↔ Action CCC
+
+![Task CCC Action CCC](figures/fig-003-task-ccc-action-ccc.png)
+
+---
 
 ## 6. Foundational Axioms of CCC Math
 
