@@ -308,7 +308,7 @@ These mechanisms attempt to bridge:
 
 This is extremely important for Autonomous AI Coding.
 
-###Observer-Centric IR
+### Observer-Centric IR
 
 Observer-centric IR introduces another major idea:
 
