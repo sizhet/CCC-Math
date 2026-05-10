@@ -295,7 +295,7 @@ CCC Math, Structural Intelligence, DBM-SI, Common Concept Core, Autonomous AI Co
      
  License: Apache-2.0
   
- DOI: TBD
+ DOI: 10.5281/zenodo.20102930
   
  Repository: https://github.com/sizhet/CCC-Math
  
