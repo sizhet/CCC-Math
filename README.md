@@ -1,9 +1,7 @@
 # CCC Math
 ## A Structural Algebra for DBM-SI, Autonomous AI Coding, and Recursive Structural Intelligence
 
-<p align="center">
-  <img src="docs/figures/hero-banner-ccc-math.png" alt="CCC Math Hero Banner" width="100%">
-</p>
+![docs/figures/hero-banner-ccc-math.png](docs/figures/hero-banner-ccc-math.png)
 
 **CCC Math** proposes a mathematical and structural framework for intelligence systems centered around the **Common Concept Core (CCC)**.
 
@@ -276,3 +274,28 @@ where:
 ## Keywords
 
 CCC Math, Structural Intelligence, DBM-SI, Common Concept Core, Autonomous AI Coding, CGCCC, Recursive Structural Intelligence, Structure Preservation, Structural Algebra, Trajectory Intelligence, PDS, Recursive AI, Structure Diffusion, Metric Intelligence.
+
+---
+
+## 📚 DBM-SI Series Navigation
+ 
+ See:\
+     docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md\
+     docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md
+
+## 📜 Citation
+
+ CCC Math - A Structural Algebra for DBM-SI, Autonomous AI Coding, and Recursive Structural Intelligence
+ 
+ Version: 1.0.0\
+ Year: 2026 
+ 
+ Author: Sizhe Tan \
+ Assistant: chatGPT (OpenAI)
+     
+ License: Apache-2.0
+  
+ DOI: TBD
+  
+ Repository: https://github.com/sizhet/CCC-Math
+ 
