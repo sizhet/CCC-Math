@@ -1,9 +1,12 @@
 {
   "title": "CCC Math: A Structural Algebra for DBM-SI, Autonomous AI Coding, and Recursive Structural Intelligence",
-  "description": "Universal Typing/Naming (UTN) is a foundational structural intelligence infrastructure for DBM-SI systems. Unlike traditional naming conventions or type systems, UTN treats names and types as emergent structural identities constrained by CCC invariants, recursive structural roles, metric consistency, behavioral persistence, and Active CCC evolution. This repository introduces: 1) Structural Identity Persistence; 2) CCC-first reverse naming construction; 3) Intent → CCC → Role → Type → Name pipeline; 4) UTN as DBM-SI Structural Identity Layer; 5) Recursive identity alignment; 6) Metric-consistent structural addressing; 7) UTN integration with Calling Graph systems; 8) Active CCC and CAIG integration. UTN reframes naming and typing from symbolic annotation problems into structural intelligence problems. The repository establishes UTN as an independent Delta DOI track intended to accelerate collective learning and recursive structural intelligence research.",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "CCC Math proposes a structural mathematical framework centered around the Common Concept Core (CCC). The framework studies how structural cores are extracted, matched, transformed, preserved, diffused, triggered, and recursively evolved across metric spaces, graphs, trajectories, programs, policies, and recursive intelligence systems.\n\nThis repository positions CCC Math as a candidate mathematical abstraction layer for Structural Intelligence, including DBM-SI, CGCCC, Policy Decision Systems, Trajectory Intelligence, Universal Typing/Naming, Recursive Structural Intelligence, and Autonomous AI Coding.\n\nThe release includes a DOI-level README, canonical figure pack, figure index, and release metadata for communicating the academic and engineering significance of CCC-centered Structural Intelligence.",
   "creators": [
     {
-      "name": "Tan, Sizhe"
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
     }
   ],
   "keywords": [
@@ -24,6 +27,5 @@
     "Recursive AI"
   ],
   "license": "Apache-2.0",
-  "upload_type": "software",
   "access_right": "open"
 }
